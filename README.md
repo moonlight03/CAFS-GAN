@@ -54,6 +54,10 @@ CAFS-GAN
 
 
 ## Training
+This code fixes model parameters in the middle of training, saves the model, and tests it. The default parameters are set in the main.py file.
+```
+python main.py
+```
 ## BibTeX
 ```
 @inproceedings{xxx2023xxx,
